@@ -20,5 +20,11 @@ public class Main {
             System.out.println(paper);//paper уменьшить на 7639.
             paper = paper - 7639;
             System.out.println(paper);
+        var friend = 19;
+            System.out.println(friend);//Увеличьте значение переменной на 2, после чего поделите значение на 7.
+            friend = friend + 2;
+            System.out.println(friend);
+            friend = friend / 7;
+            System.out.println(friend);
     }
 }
